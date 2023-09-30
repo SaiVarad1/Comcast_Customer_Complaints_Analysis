@@ -17,13 +17,22 @@ Which state has the highest percentage of unresolved complaints
 
 ### Data Dictionary
 
-Ticket #: Ticket number assigned to each complaint
-Customer Complaint: Description of complaint
-Date: Date of complaint
-Time: Time of complaint
-Received Via: Mode of communication of the complaint
-City: Customer city
-State: Customer state
-Zipcode: Customer zip
-Status: Status of complaint
+Ticket #: Ticket number assigned to each complaint 
+
+Customer Complaint: Description of complaint 
+
+Date: Date of complaint 
+
+Time: Time of complaint 
+
+Received Via: Mode of communication of the complaint 
+
+City: Customer city 
+
+State: Customer state 
+
+Zipcode: Customer zip 
+
+Status: Status of complaint 
+
 Filing on behalf of someone
